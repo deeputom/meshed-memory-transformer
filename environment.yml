@@ -28,7 +28,7 @@ dependencies:
   - msgpack-python=0.5.6=py36h6bb024c_1
   - ncurses=6.1=he6710b0_1
   - openjdk=8.0.152=h46b5887_1
-  - openssl=1.1.1=h7b6447c_0
+  - openssl=1.1.1
   - pip=19.3.1=py36_0
   - pycparser=2.19=py_0
   - pyopenssl=19.1.0=py36_0
@@ -49,8 +49,6 @@ dependencies:
   - xz=5.2.4=h14c3975_4
   - zlib=1.2.11=h7b6447c_3
   - pip:
-    - freetype=2.5.5=2
-    - icu=5.4.1=0
     - absl-py==0.8.1
     - cycler==0.10.0
     - cymem==1.31.2
